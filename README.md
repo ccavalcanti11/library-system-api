@@ -135,6 +135,6 @@ docker-compose up
 
 📬 Contact
 
-If you're a recruiter or developer interested in collaborating, feel free to reach out via LinkedIn or email me at your.email@example.com.
+If you're a recruiter or developer interested in collaborating, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/carlos-gustavo-cavalcanti/) or email me at dev1carloscavalcanti@gmail.com.
 
 Thanks for checking out my project! ⭐ If you like it, consider starring the repo!
